@@ -1,2 +1,5 @@
 # Hello-world
-The Repository
+
+Hello eveyone!
+
+Komal here,writing codes and sciptings is quite interesting.
