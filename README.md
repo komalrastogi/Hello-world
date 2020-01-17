@@ -2,4 +2,4 @@
 
 Hello eveyone!
 
-Komal here,writing codes and sciptings is quite interesting.
+Komal here,writing codes and scriptings is quite interesting.
